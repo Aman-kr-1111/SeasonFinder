@@ -126,7 +126,7 @@ Hot Summer wishes to: raja
 
 👨‍💻 **Aman Kumar**  
 🚀 Passionate Java Full Stack Developer 💡  
-📧 Reach me at: [LinkedIn](https://www.linkedin.com/in/aman-kumar-64b22b270/)) | [GitHub](https://github.com/Aman-kr-1111)  
+📧 Reach me at: [LinkedIn](https://www.linkedin.com/in/aman-kumar-64b22b270/) | [GitHub](https://github.com/Aman-kr-1111)  
 
 ---
 
