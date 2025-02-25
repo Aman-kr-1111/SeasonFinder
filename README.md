@@ -63,6 +63,7 @@ IOCProj02-DependencyInjection
 ```sh
 git clone https://github.com/your-repo-link.git
 cd IOCProj02-DependencyInjection
+
 ```
 
 ### 2️⃣ Build the Project
@@ -74,6 +75,8 @@ mvn clean install
 ```sh
 mvn exec:java -Dexec.mainClass="com.nt.client.DependencyInjectionTest"
 ```
+
+---
 
 ## 🎯 How It Works
 
