@@ -1,6 +1,5 @@
 # 🌱 IOCProj02-DependencyInjection
 
-
 ---
 
 ## 📌 Project Description
@@ -8,7 +7,6 @@
 Welcome to **IOCProj02-DependencyInjection**! 🚀 This project is a hands-on implementation of **Spring's Inversion of Control (IoC) Container** using **Dependency Injection (DI)**. It demonstrates how Spring can manage object dependencies efficiently, reducing boilerplate code and improving modularity. 
 
 In this example, we create a **SeasonFinder** service that determines the season based on the current date. The project follows Spring's **Annotation-based Configuration** approach along with XML-based bean definitions.
-
 
 ---
 
