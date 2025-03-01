@@ -75,7 +75,6 @@ mvn clean install
 ```sh
 mvn exec:java -Dexec.mainClass="com.nt.client.DependencyInjectionTest"
 ```
-
 ---
 
 ## 🎯 How It Works
@@ -106,7 +105,6 @@ SeasonFinder::0-param constructor
 SeasonFinder.findOutSeasonName()
 Hot Summer wishes to: raja
 ```
-
 ---
 
 ## 📌 Key Takeaways
